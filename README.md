@@ -1,4 +1,4 @@
-# HHLib Programming Library for HydraHarp 400 
+# Demo Code for HHLib Programming Library for HydraHarp 400 
 Version 1.2  
 PicoQuant GmbH - August 2009
 
