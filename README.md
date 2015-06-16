@@ -1,5 +1,5 @@
 # HHLib Programming Library for HydraHarp 400 
-Version 1.2
+Version 1.2  
 PicoQuant GmbH - August 2009
 
 
@@ -76,8 +76,8 @@ Alternatively you can use the Control Panel Wizard 'Add/Remove Programs'
 
 https://support.picoquant.com
 
-PicoQuant GmbH
-Rudower Chaussee 29
-12489 Berlin, Germany
-Phone +49 30 6392 6560
+PicoQuant GmbH  
+Rudower Chaussee 29  
+12489 Berlin, Germany  
+Phone +49 30 6392 6560  
 Fax   +49 30 6392 6561
