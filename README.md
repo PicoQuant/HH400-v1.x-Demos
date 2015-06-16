@@ -1,10 +1,10 @@
-HHLib Programming Library for HydraHarp 400 
+# HHLib Programming Library for HydraHarp 400 
 Version 1.2
 PicoQuant GmbH - August 2009
 
 
 
-Introduction
+## Introduction
 
 The HydraHarp 400 is a TCSPC system with USB 2.0 interface. 
 The system requires a 686 class PC with USB 2.0 host controller,
@@ -14,7 +14,7 @@ The programming library is a DLL with demos for various programming
 languages. Please refer to the manual (PDF) for instructions.
 
 
-Disclaimer
+## Disclaimer
 
 PicoQuant GmbH disclaims all warranties with regard to this software 
 and associated documentation including all implied warranties of 
@@ -24,7 +24,7 @@ or immaterial damages whatsoever resulting from loss of data, time
 or profits arising from use or performance of this software.
 
 
-License and Copyright Notice
+## License and Copyright Notice
 
 With the HydraHarp hardware product you have purchased a license to use 
 the HydraHarp software. You have not purchased the software itself. 
@@ -39,18 +39,18 @@ reproduced, translated or transferred to third parties without written
 permission of PicoQuant GmbH. 
 
 
-Trademark Disclaimer
+## Trademark Disclaimer
 
 HydraHarp, PicoHarp, TimeHarp and NanoHarp are registered trademarks 
 of PicoQuant GmbH. Other products and corporate names appearing in the 
 product manuals or in the online documentation may or may not be registered 
 trademarks or copyrights of their respective owners. They are used only 
-for identification or explanation and to the ownerís benefit, without 
+for identification or explanation and to the owner√≠s benefit, without 
 intent to infringe.
 
 
 
-Installation 
+## Installation 
 
 Before installation, make sure to backup any work you kept in previous
 installation directories and uninstall any older versions of HHLib.
@@ -72,11 +72,12 @@ Alternatively you can use the Control Panel Wizard 'Add/Remove Programs'
 (in some Windows versions this Wizard is called 'Software')
 
 
-Contact and Support
+## Contact and Support
+
+https://support.picoquant.com
 
 PicoQuant GmbH
 Rudower Chaussee 29
 12489 Berlin, Germany
 Phone +49 30 6392 6560
 Fax   +49 30 6392 6561
-email info@picoquant.com
